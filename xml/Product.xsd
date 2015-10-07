@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v5 rel. 3 U (http://www.xmlspy.com) by Mubiana Silumesii (bag) -->
+<!DOCTYPE Product SYSTEM "Product.dtd">
+<Product>
+	<Seat>
+		<id>Stx01</id>
+		<title>Migel Comfort Seat</title>
+		<category>Combianation seat </category>
+		<price>342</price>
+		<stock>45</stock>
+		<color> Brown</color>
+		<manufacturer> Castrol seat accessories</manufacturer>
+		<dimensions>80cm* 90cm</dimensions>
+		<availability>Available</availability>
+		<description>The migel comfort seat was nominated as the 2006's car seat of the year and as a result , it is now firmly regarded as one of the best car comfort seats 
+                  in the world</description>
+	</Seat>
+	<Seat>
+		<id>RYX01</id>
+		<title> Britax Baby Seat</title>
+		<category>Infant only seat </category>
+		<price>89</price>
+		<stock>4</stock>
+		<color> Black</color>
+		<manufacturer>  Castrol seat accessories</manufacturer>
+		<dimensions>86cm* 8cm</dimensions>
+		<availability>Available</availability>
+		<description>The Britax baby seat is a highly affordable baby seat designed to give your baby maximum comfort.It incorporates the use of seat heaters and seat 
+		   massurgers to give your baby a comfotable journey. </description>
+	</Seat>
+	<Seat>
+		<id> C4X01</id>
+		<title> Cosco Scenera</title>
+		<category>Off roader seat </category>
+		<price>270</price>
+		<stock>40</stock>
+		<color> Black </color>
+		<manufacturer> Price holdings seat manufacturers</manufacturer>
+		<dimensions>80cm* 90cm</dimensions>
+		<availability>Available</availability>
+		<description> .In addition to providing seat masurgers , these seats come with shock absorbers to ensure that passengers enjoy maximum comfortibilty both on and off road .</description>
+	</Seat>
+	<Seat>
+		<id> Ax01</id>
+		<title> Angello comfort seat</title>
+		<category> Convertible seat </category>
+		<price>45</price>
+		<stock>40</stock>
+		<color> Black</color>
+		<manufacturer> Handsworth car interiors </manufacturer>
+		<dimensions>84cm* 92cm</dimensions>
+		<availability>Available</availability>
+		<description>The Angello car comfort seat was specially designed for luxury convertible vechicles .This seat comes with in built seat masurgers , seat speakers ,
+		and a customer service</description>
+	</Seat>
+	<Seat>
+		<id> K9x01</id>
+		<title> Washingtons</title>
+		<category>Race driver seat </category>
+		<price>32</price>
+		<stock>40</stock>
+		<color> Black</color>
+		<manufacturer> Price holdings seat manufacturers</manufacturer>
+		<dimensions>45cm* 90cm</dimensions>
+		<availability>Available</availability>
+		<description> Washingtons is a super race driver seat that was designed to keep the race driver in to a right position as he makes his sharp turns and
+		and high race car rumps.</description>
+	</Seat>
+	<Toolkit>
+		<id>Tkx01</id>
+		<title> Rally toolkit</title>
+		<weight> 4kg</weight>
+		<price>32</price>
+		<stock>100 </stock>
+		<color>Black</color>
+		<manufacturer> Toolkit producers</manufacturer>
+		<dimensions>40cm*50cm</dimensions>
+		<availability>Available</availability>
+		<description>This tool kit can be classified as a world class toolbox.It comes equipped with all the necessary tools and devices necessary for performing highly complex work</description>
+	</Toolkit>
+	<Toolkit>
+		<id> TJx01</id>
+		<title>Automotive Travel Tool Kit</title>
+		<weight> 5kg</weight>
+		<price>45</price>
+		<stock>100 </stock>
+		<color>Black</color>
+		<manufacturer> Castrol </manufacturer>
+		<dimensions>40cm*50cm</dimensions>
+		<availability>Available</availability>
+		<description>This world class toolkit comes equipped with all the necessary tools and devices necessary for performing highly complex car repairs.</description>
+	</Toolkit>
+	<Toolkit>
+		<id>DTFx01</id>
+		<title>Brookstone Roadside Auto Emergecy Kit</title>
+		<weight> 8kg</weight>
+		<price>78</price>
+		<stock>2 </stock>
+		<color>Black</color>
+		<manufacturer> Castrol </manufacturer>
+		<dimensions>40cm*50cm</dimensions>
+		<availability>Available</availability>
+		<description>This comprehensive kit includes everything from jumper cables to lug wrenches and thus allowing you can hit the road with confidence.</description>
+	</Toolkit>
+	<Toolkit>
+		<id>DTFx01</id>
+		<title> Campbell Auto Emergecy tool  Kit</title>
+		<weight> 9kg</weight>
+		<price>14</price>
+		<stock>100 </stock>
+		<color>Black</color>
+		<manufacturer> Car Toolkit Center</manufacturer>
+		<dimensions>48cm*80cm</dimensions>
+		<availability>Available</availability>
+		<description> This13-Piece Auto Emergency Tool Kit comes with Radio, Spotlights, and Hazard Lights .The Auto Kit has every tool to meet your needs.</description>
+	</Toolkit>
+	<Toolkit>
+		<id>PTFx01</id>
+		<title>Delux Master Car Lock-Out ToolKit</title>
+		<weight> 5kg</weight>
+		<price>55</price>
+		<stock>100 </stock>
+		<color>Black</color>
+		<manufacturer> Car Toolkit Center </manufacturer>
+		<dimensions>40cm*50cm</dimensions>
+		<availability>Available</availability>
+		<description> The Deluxe Master is a high value tool kit and includes the Lock Tech Tool for GM slide locks </description>
+	</Toolkit>
+	<Wheel_And_Rim>
+		<id>WR011</id>
+		<serial_no>901918</serial_no>
+		<title>Tiger wheel and tyres</title>
+		<warranty> 2</warranty>
+		<price>91</price>
+		<stock>1</stock>
+		<color>Black</color>
+		<manufacturer>Tiger Wheel And Tyre</manufacturer>
+		<dimensions>18in*45in</dimensions>
+		<availability>Available</availability>
+		<description> They are classified as one of the most of the most supreme rally tyres by the worlds leading rally organizations </description>
+	</Wheel_And_Rim>
+	<Wheel_And_Rim>
+		<id>Enkei Wheels</id>
+		<serial_no>901918</serial_no>
+		<title>  Enkei Wheels</title>
+		<warranty> 2 years</warranty>
+		<price>199</price>
+		<stock>20</stock>
+		<color>Black</color>
+		<manufacturer>NYX Racing</manufacturer>
+		<dimensions>18in*45in</dimensions>
+		<availability>Available</availability>
+		<description> The wheels and come in a variety of styles and finish; from aluminum, stainless steel, bronze, silver, white and  black. 
+           </description>
+	</Wheel_And_Rim>
+	<Wheel_And_Rim>
+		<id>WYP901</id>
+		<serial_no>901918</serial_no>
+		<title> Super Digger </title>
+		<warranty> 2</warranty>
+		<price>199</price>
+		<stock>15</stock>
+		<color>Black</color>
+		<manufacturer> Mitsubishi motors </manufacturer>
+		<dimensions>18in*45in</dimensions>
+		<availability>Available</availability>
+		<description> These wheels are classified as being one of the toughest rally tyres in the world </description>
+	</Wheel_And_Rim>
+	<Wheel_And_Rim>
+		<id>P901</id>
+		<serial_no>901918</serial_no>
+		<title> Solidifier </title>
+		<warranty> 2</warranty>
+		<price>193</price>
+		<stock>10</stock>
+		<color>Black</color>
+		<manufacturer> Off road tyre producers </manufacturer>
+		<dimensions>21in*40in</dimensions>
+		<availability>Available</availability>
+		<description> These wheels were particularly designed for off road 4wd vechiles.Their design allows to tour maddy , rocky and rough terrains with minimum ease .</description>
+	</Wheel_And_Rim>
+	<Wheel_And_Rim>
+		<id> KYP901</id>
+		<serial_no>901918</serial_no>
+		<title> F1 rims and tyres </title>
+		<warranty> 2</warranty>
+		<price>1800</price>
+		<stock>100</stock>
+		<color>Black</color>
+		<manufacturer> Rally Art </manufacturer>
+		<dimensions>18in*45in</dimensions>
+		<availability>Available</availability>
+		<description> As the name suggests , this range of rims and tyres was designed for high speed formula 1 vechicles.  </description>
+	</Wheel_And_Rim>
+	<Car_Paint>
+		<id> WR426</id>
+		<serial_no>628190</serial_no>
+		<title> Handsworth paint</title>
+		<weight>18kg</weight>
+		<price>23</price>
+		<stock>600</stock>
+		<color>White</color>
+		<manufacturer>Handsworth</manufacturer>
+		<dimensions>25in*40in</dimensions>
+		<availability> Not Available</availability>
+		<description>A best quality paint product that could be used  to paint cars of various shapes and sizes</description>
+	</Car_Paint>
+	<Car_Paint>
+		<id> PPG73</id>
+		<serial_no>628190</serial_no>
+		<title>PPG car paint</title>
+		<weight>18kg</weight>
+		<price>23</price>
+		<stock>600</stock>
+		<color>White</color>
+		<manufacturer>Handsworth</manufacturer>
+		<dimensions>25cm*40cm</dimensions>
+		<availability> Not Available</availability>
+		<description> Most of our PPG paints are available in sizes from gallons down to touch-up paint sticks. </description>
+	</Car_Paint>
+	<Car_Paint>
+		<id> WDF42</id>
+		<serial_no>628190</serial_no>
+		<title> West coats paint</title>
+		<weight>18kg</weight>
+		<price>12</price>
+		<stock>600</stock>
+		<color>White</color>
+		<manufacturer>West coast</manufacturer>
+		<dimensions>15cm*40cm</dimensions>
+		<availability> Available</availability>
+		<description> West coast paints stand out as one of the worlds most successful paint products.These brand of paints provide customers with supreme quality painting.</description>
+	</Car_Paint>
+	<Car_Paint>
+		<id> WRFS06</id>
+		<serial_no>628190</serial_no>
+		<title> Coat ol car paints </title>
+		<weight>18kg</weight>
+		<price>16</price>
+		<stock>4</stock>
+		<color>Black</color>
+		<manufacturer> Rally Art</manufacturer>
+		<dimensions>25cm*40cm</dimensions>
+		<availability> Available</availability>
+		<description> This paint was manufactured to adapt to extremelly hash weather conditions such as storms or freezing tempretures .</description>
+	</Car_Paint>
+	<Car_Paint>
+		<id> XCVD45</id>
+		<serial_no>628190</serial_no>
+		<title> Rimigel car paint</title>
+		<weight>14kg</weight>
+		<price>20</price>
+		<stock>600</stock>
+		<color>Black</color>
+		<manufacturer>Handsworth</manufacturer>
+		<dimensions>25cm*40cm</dimensions>
+		<availability> Not Available</availability>
+		<description> This car paint contains high concentrations of anti rust and anti oxgen fluids that transform your race car vechile in to a rust and fire resistant automobile</description>
+	</Car_Paint>
+	<Oil_And_Lubricant>
+		<id>OL09 </id>
+		<serial_no>927291</serial_no>
+		<title>Castrol GTX Magnatec for Conventional Engines </title>
+		<category> Engine oil  </category>
+		<weight>9kg </weight>
+		<price>13</price>
+		<stock>5</stock>
+		<color>Green</color>
+		<manufacturer>Castrol</manufacturer>
+		<dimensions>12cm*18cm</dimensions>
+		<availability>Available</availability>
+		<description> Containing a unique synthetic ester that clings to the engine surfaces like a magnet, Castrol GTX Magnatec protects your engine from the moment you turn the key</description>
+	</Oil_And_Lubricant>
+	<Oil_And_Lubricant>
+		<id>OL109 </id>
+		<serial_no>927291</serial_no>
+		<title> Castrol GTD Magnatec 5W-40 </title>
+		<category>Engine oil  </category>
+		<weight>5kg </weight>
+		<price>13</price>
+		<stock>78</stock>
+		<color>Green</color>
+		<manufacturer>Castrol</manufacturer>
+		<dimensions>12cm*18cm</dimensions>
+		<availability>Available</availability>
+		<description>Contains specially formulated molecules, which provide faster oil flow. This means that the oil gets to the moving parts of the engine quickly, maximising protection</description>
+	</Oil_And_Lubricant>
+	<Oil_And_Lubricant>
+		<id>OL209 </id>
+		<serial_no>927291</serial_no>
+		<title> Bp steering fluid </title>
+		<category>steering oil  </category>
+		<weight> 4kg </weight>
+		<price>13</price>
+		<stock>0</stock>
+		<color>Green</color>
+		<manufacturer>British Petroleum</manufacturer>
+		<dimensions>12cm*18cm</dimensions>
+		<availability>Available</availability>
+		<description> The Bp steering fluid Oil clings to the steering handle surface like a providing constant protection against friction and rust </description>
+	</Oil_And_Lubricant>
+	<Oil_And_Lubricant>
+		<id>OLJ309 </id>
+		<serial_no>927291</serial_no>
+		<title>Castrol Response Super DOT 4 </title>
+		<category>Brake fluid  </category>
+		<weight>5kg </weight>
+		<price>13</price>
+		<stock>0</stock>
+		<color>Black</color>
+		<manufacturer>Castrol</manufacturer>
+		<dimensions>10cm*18cm</dimensions>
+		<availability>Available</availability>
+		<description> Castrol Response Super DOT 4 is a high boiling synthetic brake fluid formulated from mixed polyalkylene glycol ethers and borate ester </description>
+	</Oil_And_Lubricant>
+	<Oil_And_Lubricant>
+		<id>OL409 </id>
+		<serial_no>927291</serial_no>
+		<title>Caltex oil </title>
+		<category>Gear oil </category>
+		<weight>7kg </weight>
+		<price>13</price>
+		<stock>80</stock>
+		<color>Green</color>
+		<manufacturer> Castrol</manufacturer>
+		<dimensions>12cm*18cm</dimensions>
+		<availability>Available</availability>
+		<description>Mineral based , extreme pressure multigrade gear oil </description>
+	</Oil_And_Lubricant>
+	<Stereo_Kit>
+		<id> ptk01</id>
+		<serial_no>298191</serial_no>
+		<title> Pioneer DEH-P480MP Premier</title>
+		<category>Cd /Mp3</category>
+		<warranty> 2 years </warranty>
+		<price>138</price>
+		<stock>150</stock>
+		<manufacturer>Pioneer</manufacturer>
+		<dimensions>10cm*21cm</dimensions>
+		<availability>Available</availability>
+		<description> Rock your car with an In-dash MP3/WMA/WAV car audio/stereo receiver, satellite ready, multicolor display and powerful 50W x 4 Output. </description>
+	</Stereo_Kit>
+	<Stereo_Kit>
+		<id> atk01</id>
+		<serial_no>348191</serial_no>
+		<title>Alphine CDA-9857 car stereo</title>
+		<category>Car stereo system</category>
+		<warranty> 2 years</warranty>
+		<price>138</price>
+		<stock>150</stock>
+		<manufacturer>Alphine</manufacturer>
+		<dimensions>15cm*20cm</dimensions>
+		<availability>Available</availability>
+		<description> The Alphine stereo system provides its user with Technology and Style .It incorporates a CD/MP3/WMA car audio/stereo receiver, stunning graphics display, powerful built-in amp and HD and satellite radio-ready 
+      </description>
+	</Stereo_Kit>
+	<Stereo_Kit>
+		<id> htk01</id>
+		<serial_no>908191</serial_no>
+		<title> Hifonics BX1605D</title>
+		<category>Mon car radio</category>
+		<warranty> 2 years</warranty>
+		<price>229</price>
+		<stock>1</stock>
+		<manufacturer>Sony</manufacturer>
+		<dimensions>10cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description>   The BX1605D Mono car audio/stereo  houses an in built amplifier with 1600-Watts super D-Class topography, Ultra-Fi MOSFET outputs with fully adjustable Accu-Cross crossover. 
+            </description>
+	</Stereo_Kit>
+	<Stereo_Kit>
+		<id> ptk01</id>
+		<serial_no>635191</serial_no>
+		<title> Panasonic CQ-C7203U  </title>
+		<category>Car stereo system</category>
+		<warranty> 2 years</warranty>
+		<price> 149 </price>
+		<stock>150</stock>
+		<manufacturer>Panasonic</manufacturer>
+		<dimensions>10cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> Enjoy the best of both worlds .A powerful high-end car audio/stereo CD/MP3/WMA playback receiver and a high-definition 3D dot matrix display. </description>
+	</Stereo_Kit>
+	<Stereo_Kit>
+		<id> stk01</id>
+		<serial_no>628451</serial_no>
+		<title>Sony CDX-GT300</title>
+		<category>Car stereo system</category>
+		<warranty> 2</warranty>
+		<price>119</price>
+		<stock>150</stock>
+		<manufacturer>Sony</manufacturer>
+		<dimensions>15cm*20cm</dimensions>
+		<availability>Available</availability>
+		<description>  This sony audio audio system provides a CD/MP3/ATRAC3plus car audio/stereo receiver, satellite radio-ready, built-in amplifier, remote control and two sets of preamp outputs. </description>
+	</Stereo_Kit>
+	<Car_Repair>
+		<id>r852</id>
+		<title> Johnson's Analysis Of Radiator Systems</title>
+		<category>Book on car engine repairs </category>
+		<price>343</price>
+		<availability>Available </availability>
+		<description>This books discusses various methods and techniquees used to repair faulty radiators </description>
+	</Car_Repair>
+	<Car_Repair>
+		<id>pr82</id>
+		<title> Mr Engine's suspension Repairs</title>
+		<category> Book on suspension repairs </category>
+		<price>223</price>
+		<availability>Available </availability>
+		<description>This books discusses the cole competences on how suspension systems undergo comprehensive testing and some procedures to help determine and fix all related faults.  </description>
+	</Car_Repair>
+	<Car_Repair>
+		<id>Ir82</id>
+		<title> Fixing an injector Pump </title>
+		<category> Book on intensive injector pump repairs </category>
+		<price>223</price>
+		<availability>Available </availability>
+		<description>This book is based on the varous methods of injector pumps testing and service methods   .</description>
+	</Car_Repair>
+	<Car_Repair>
+		<id>gr82</id>
+		<title> How To Repair Car Engine Gasket </title>
+		<category> Book on car engine repairs </category>
+		<price>389</price>
+		<availability>Available </availability>
+		<description>This book discusses and  illustrates methods of repairing a car gasket  </description>
+	</Car_Repair>
+	<Car_Repair>
+		<id>pr82</id>
+		<title> The Car tube specialist</title>
+		<category> Book on tyre repairs </category>
+		<price>223</price>
+		<availability>Available </availability>
+		<description>The tube goes through a comprehensive test in view of identifying all the holes. These faults are later own repaired </description>
+	</Car_Repair>
+	<Truck_Repair>
+		<id>TKS1 </id>
+		<title> Truck shock repairs </title>
+		<category> Books on suspension repairs </category>
+		<price>127 </price>
+		<availability>Available</availability>
+		<description> A book based on the methods a truck mechanic may use to find and repair shock and suspension related problems on the truck</description>
+	</Truck_Repair>
+	<Truck_Repair>
+		<id>TKC1 </id>
+		<title>Books on truck conveyor belt repairs </title>
+		<category> Books on engine repairs </category>
+		<price>124 </price>
+		<availability>Available</availability>
+		<description> This book discusses various aspects of the conveyor belt related problems on the trucks </description>
+	</Truck_Repair>
+	<Truck_Repair>
+		<id>TKB1 </id>
+		<title>Mr Truck battery </title>
+		<category> Battery repairs </category>
+		<price>20 </price>
+		<availability>Available</availability>
+		<description> Discusses the cole competences of truck battery problems and solutions</description>
+	</Truck_Repair>
+	<Truck_Repair>
+		<id>TK01 </id>
+		<title> Windscreen replacement specialist  </title>
+		<category> Windscreen repairs </category>
+		<price>110 </price>
+		<availability>Available</availability>
+		<description>Discusses the various methods of dealing with cracked windscreens on the truck </description>
+	</Truck_Repair>
+	<Truck_Repair>
+		<id>TK01 </id>
+		<title>Truck tyres </title>
+		<category> Tyre repair boks </category>
+		<price>130 </price>
+		<availability>Not Available</availability>
+		<description>This book is discusses the steps a truck mechanic must take to find and repai punctures on the tube surface of the truck wheel.</description>
+	</Truck_Repair>
+	<Motorcycle_Repair>
+		<id>Mcr05 </id>
+		<title> Hotrod motorcycle tyre repairs </title>
+		<category> Motorcycle tyre repair books </category>
+		<price>120</price>
+		<availability>Available</availability>
+		<description> As the name of this book suggests , this book discusses some of the cole competences of motorcycle tyre repairs.In addition , it includes a free cd to demonstrate the
+		tyre swapping .</description>
+	</Motorcycle_Repair>
+	<Motorcycle_Repair>
+		<id>rbcr5 </id>
+		<title>Motorcycle radiator repair book </title>
+		<category> Motorcycle radiator category of boobks. </category>
+		<price>180</price>
+		<availability>Available</availability>
+		<description>This book discusses some of the steps and tasks that the motorcycle specialist must perform to identify and repair all the radiator related problems .</description>
+	</Motorcycle_Repair>
+	<Motorcycle_Repair>
+		<id>gkr05 </id>
+		<title>Motor cycle gasket repairs </title>
+		<category> Gasket repair category of books </category>
+		<price>129</price>
+		<availability>Available</availability>
+		<description>This book discusses some of the steps and tasks that the motorcycle specialist must perform to identify and repair all the gasket related faults. </description>
+	</Motorcycle_Repair>
+	<Motorcycle_Repair>
+		<id> inr05 </id>
+		<title> Fix that faulty motorcycle injector pump </title>
+		<category> Motor cycle injector pump category of books </category>
+		<price> 140</price>
+		<availability>Available</availability>
+		<description>This book discusses some of the steps and tasks that the motorcycle specialist must perform to identify and repair all the injector pump related faults.</description>
+	</Motorcycle_Repair>
+	<Motorcycle_Repair>
+		<id> mtcr05 </id>
+		<title>Motorcycle conveyor belt repairs </title>
+		<category> Motorcycle conveyor belt category of books </category>
+		<price> 140</price>
+		<availability>Available</availability>
+		<description>This book discusses some of the steps and tasks that the motorcycle specialist must perform to identify and repair all the conveyor belt related faults</description>
+	</Motorcycle_Repair>
+	<Car_Painting>
+		<id>Cpr07</id>
+		<title>The Car Painters book </title>
+		<category> Exterior painting range of books </category>
+		<price> 896 </price>
+		<dimensions>300cm*200cm </dimensions>
+		<color>Red </color>
+		<availability>Available</availability>
+		<description>This book discusses the steps a car painter must carry out to paint the entire exterior area at best quality. </description>
+	</Car_Painting>
+	<Car_Painting>
+		<id>Cpr45</id>
+		<title>The Car painters book </title>
+		<category> Interior painting range of books </category>
+		<price> 298 </price>
+		<dimensions>300cm*200cm </dimensions>
+		<color>White </color>
+		<availability>Available</availability>
+		<description>This book discusses the steps a car painter must carry out to paint the entire interior area at best quality </description>
+	</Car_Painting>
+	<Car_Painting>
+		<id>Cpr03</id>
+		<title>Paint And Polish That Car </title>
+		<category>Exterior polish painting range of books</category>
+		<price> 353 </price>
+		<dimensions>300cm*200cm </dimensions>
+		<color>White </color>
+		<availability>Available</availability>
+		<description>This book discusses the steps a car painter must carry out to paint and polish the entire exterior area of the car at best quality </description>
+	</Car_Painting>
+	<Car_Audio_Installation>
+		<id> ins76  </id>
+		<title>The car audio installation expert </title>
+		<price> 340 </price>
+		<dimensions>30cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description>This book covers a comprehensive step by step procedure on car audio installation systems  </description>
+	</Car_Audio_Installation>
+	<Car_Audio_Installation>
+		<id> yr06  </id>
+		<title>The car speaker installation expert</title>
+		<price> 376 </price>
+		<dimensions>12cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> This book covers a comprehensive step by step procedure on car speaker system installation systems</description>
+	</Car_Audio_Installation>
+	<Car_Audio_Installation>
+		<id> jr06  </id>
+		<title> Surround sound system installation</title>
+		<price> 387 </price>
+		<dimensions>9cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description>This book covers a comprehensive step by step procedure on car surround sound system installations.</description>
+	</Car_Audio_Installation>
+	<Amps>
+		<id>Amp1 </id>
+		<title> Mono car amplifier  </title>
+		<price>100 </price>
+		<stock>4</stock>
+		<manufacturer>Sony</manufacturer>
+		<availability> Available</availability>
+		<description>This 400watt sound amplifier system power a single speaker. </description>
+	</Amps>
+	<Amps>
+		<id>Amp2 </id>
+		<title>Two channel sound amplifiers </title>
+		<price>150 </price>
+		<stock>0</stock>
+		<manufacturer>Philips</manufacturer>
+		<availability> Available</availability>
+		<description>This 800 watt sound amplifier system boosts the signal to two speakers and a subwoofer. </description>
+	</Amps>
+	<Amps>
+		<id>Amp403 </id>
+		<title>Three channel amplifiers </title>
+		<price>190</price>
+		<stock>0</stock>
+		<manufacturer>LG</manufacturer>
+		<availability> Not Available</availability>
+		<description> This 1200 watt sound amplifier system boosts the signal to three speakers and a subwoofer.</description>
+	</Amps>
+	<Amps>
+		<id>Amp404 </id>
+		<title>Four channel amplifiers </title>
+		<price>229</price>
+		<stock>3</stock>
+		<manufacturer>Sony</manufacturer>
+		<availability> Available</availability>
+		<description>This sound amplifier system boosts the signal to four speakers and two subwoofers; two speakers and a single subwoofer; or any configuration in between. </description>
+	</Amps>
+	<Amps>
+		<id>Amp405 </id>
+		<title>Five channel amplifiers </title>
+		<price>300</price>
+		<stock>7</stock>
+		<manufacturer>Sony</manufacturer>
+		<availability> Available</availability>
+		<description>This sound amplifier system boosts the signal to five speakers and three subwoofers; three speakers and a single subwoofer; or any configuration in between.</description>
+	</Amps>
+	<Cd_Stackers>
+		<id>alpcd06   </id>
+		<title>Alphine cd 6 stacker</title>
+		<warranty> 2 year </warranty>
+		<price>55 </price>
+		<stock> 150</stock>
+		<manufacturer> Alphine</manufacturer>
+		<dimensions>45cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> This alphine cd sacker is able to hold up to 6 cd's simulataneously </description>
+	</Cd_Stackers>
+	<Cd_Stackers>
+		<id>Fds06   </id>
+		<title>Original ford cd stacker</title>
+		<warranty>2 years </warranty>
+		<price>45 </price>
+		<stock> 150</stock>
+		<manufacturer> Ford </manufacturer>
+		<dimensions>24cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> This ford cd stacker is able to hold up to 10 cd's at a go . </description>
+	</Cd_Stackers>
+	<Cd_Stackers>
+		<id>Sn06   </id>
+		<title>Sony auto stacker 10 Disc Magazine CDX-A15RF</title>
+		<warranty>2 years </warranty>
+		<price>80</price>
+		<stock> 150</stock>
+		<manufacturer> Sony </manufacturer>
+		<dimensions>31cm*12cm</dimensions>
+		<availability>Available</availability>
+		<description> This cd stacker has an automatically run and is able to store 10 disc magazines at one goal .</description>
+	</Cd_Stackers>
+	<Cd_Stackers>
+		<id>Pcds23   </id>
+		<title>Pioneer 6 Disc Cd Stacker</title>
+		<warranty>1 year </warranty>
+		<price>58</price>
+		<stock> 12</stock>
+		<manufacturer> Pioneer  </manufacturer>
+		<dimensions>16cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> The piooner cd stacker is a world class cd stacker , and can house up to 6 cd cases .</description>
+	</Cd_Stackers>
+	<Cd_Stackers>
+		<id>Clst31   </id>
+		<title> 6 Cd Clarion stacker </title>
+		<warranty>3 years</warranty>
+		<price>67 </price>
+		<stock> 150</stock>
+		<manufacturer> CLARION</manufacturer>
+		<dimensions>30cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> The piooner cd stacker is another world class cd stacker , and can house up to 6 cd cases simulataneously </description>
+	</Cd_Stackers>
+	<Speakers>
+		<id>Pd06   </id>
+		<title>Pioneer Premier Speakers</title>
+		<warranty>2 years </warranty>
+		<price>138 </price>
+		<stock> 150</stock>
+		<manufacturer> Pioneer </manufacturer>
+		<dimensions>30cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> This four set speaker system with a total output power of 1800watts is sure to get your car system rocking</description>
+	</Speakers>
+	<Speakers>
+		<id> Btr43   </id>
+		<title>Boss Audio Speakers</title>
+		<warranty>3 years </warranty>
+		<price>449 </price>
+		<stock> 150</stock>
+		<manufacturer>  </manufacturer>
+		<dimensions>30cm*25cm</dimensions>
+		<availability>Available</availability>
+		<description> The boss audio speaker system is regarded as a world class speaker.In addition to providing sound stereo in depth multimedia , it provides a whoopping 3400 watts power 
+		right in your car</description>
+	</Speakers>
+	<Speakers>
+		<id>Sd06   </id>
+		<title> Sony speaker system </title>
+		<warranty>3 years </warranty>
+		<price>55 </price>
+		<stock> 150</stock>
+		<manufacturer> Sony  </manufacturer>
+		<dimensions>52cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> This sony speaker system comes with a built-in amplifier, remote control and two set output.</description>
+	</Speakers>
+	<Speakers>
+		<id> Bxp42   </id>
+		<title>BX1605D speaker system</title>
+		<warranty>3 years</warranty>
+		<price>125 </price>
+		<stock> 130</stock>
+		<manufacturer> Pnasonic</manufacturer>
+		<dimensions>53cm*15cm</dimensions>
+		<availability>Available</availability>
+		<description> Comes with an in-built stereo amplifier with a 1600-Watts super D-Class topography, Ultra-Fi MOSFET outputs with fully adjustable Accu-Cross crossover </description>
+	</Speakers>
+	<Speakers>
+		<id>Alp53   </id>
+		<title>Alpine speaker system</title>
+		<warranty>1 year </warranty>
+		<price>78 </price>
+		<stock> 150</stock>
+		<manufacturer> Alphine  </manufacturer>
+		<dimensions>34cm*30cm</dimensions>
+		<availability>Available</availability>
+		<description> This speaker system incorporates Technology and Style  as it can support CD/MP3/WMA car audio/stereo receiver, stunning graphics display, powerful built-in amp and HD and satellite radio-ready. 
+</description>
+	</Speakers>
+	<Sub_Woofers>
+		<id>SW5 </id>
+		<title>Sony System Sub Woofer</title>
+		<weight> 5kg </weight>
+		<warranty>1year </warranty>
+		<price>680 </price>
+		<stock>200 </stock>
+		<manufacturer>Sony</manufacturer>
+		<dimensions>50cm*75cm </dimensions>
+		<availability> Available</availability>
+		<description>This sony system sub woofer uses a loudspeaker that reproduces low notes from a stereo to best sound and quality  It produces a total 0f 4000 watts of sound power.</description>
+	</Sub_Woofers>
+	<Sub_Woofers>
+		<id>SW5 </id>
+		<title> JVC Sub Woofer System </title>
+		<weight> 7kg </weight>
+		<warranty> 1year  </warranty>
+		<price>580 </price>
+		<stock>150 </stock>
+		<manufacturer> JVC</manufacturer>
+		<dimensions>80cm*75cm </dimensions>
+		<availability> Available</availability>
+		<description>This JVC system sub woofer uses a loudspeaker that reproduces low notes from a stereo to best sound and quality  It produces a total 0f 3500 watts of sound power.</description>
+	</Sub_Woofers>
+	<Sub_Woofers>
+		<id>SW5 </id>
+		<title> The Samsang Sub Woofer System</title>
+		<weight> 8kg </weight>
+		<warranty>1 </warranty>
+		<price>690 </price>
+		<stock>150 </stock>
+		<manufacturer> Samsang</manufacturer>
+		<dimensions>60cm*75cm </dimensions>
+		<availability> Available</availability>
+		<description>This Samsang system sub woofer uses a loudspeaker that reproduces low notes from a stereo to best sound and quality. It produces a total 0f 4500 watts of sound power</description>
+	</Sub_Woofers>
+	<Sub_Woofers>
+		<id>Kn43 </id>
+		<title>Kenwood sub woofer system</title>
+		<weight> 10kg </weight>
+		<warranty>1 year </warranty>
+		<price>567 </price>
+		<stock>3 </stock>
+		<manufacturer> Kenwood </manufacturer>
+		<dimensions>55cm*65cm </dimensions>
+		<availability> Available</availability>
+		<description>The Kenwood subwoofer system is a worldclass subwoofer that uses a loudspeaker that reproduces low notes from a stereo to best sound and quality.
+		 It produces a total 0f 5500 watts of sound power .As a result , it regarded as one of the worlds most powerful sub woofer systems .</description>
+	</Sub_Woofers>
+	<Sub_Woofers>
+		<id>SW5 </id>
+		<title>Pansonic Woofer</title>
+		<weight> 8kg </weight>
+		<warranty>1 </warranty>
+		<price>670 </price>
+		<stock>0</stock>
+		<manufacturer>Panasonic </manufacturer>
+		<dimensions>75cm*50cm </dimensions>
+		<availability> Available</availability>
+		<description>This Panasonic sub system sub woofer uses a loudspeaker that reproduces low notes from a stereo to best sound and quality. It produces a total 0f 400 watts of sound power</description>
+	</Sub_Woofers>
+	<In_Car_Video_System>
+		<id> Kd09</id>
+		<title>Kenwood KVT 715DVD - DVD player with LCD monitor and AM/FM tuner</title>
+		<warranty>2 </warranty>
+		<price> 725</price>
+		<stock>250 </stock>
+		<manufacturer>Kenwood</manufacturer>
+		<dimensions>35cm*40cm</dimensions>
+		<availability> Available</availability>
+		<description>The KVT-715DVD is packed with Future Ready/Already features... More and technology. Highlights include a 7"-wide, 16: 9 touchscreen display, DVD-Video/CD/MP3/WMA 
+		playback, 24-bit digital-to-analog converters, and a brand-new GUI on-screen interface.  </description>
+	</In_Car_Video_System>
+	<In_Car_Video_System>
+		<id> BB34</id>
+		<title>Boss BV 9600 - DVD player </title>
+		<warranty>2 years </warranty>
+		<price> 1230</price>
+		<stock>150 </stock>
+		<manufacturer>Boss audio</manufacturer>
+		<dimensions>30cm*30cm</dimensions>
+		<availability>Not Available</availability>
+		<description>BOSS Audio Systems is a full line manufacturer of mobile... More electronics equipment. The company is focused on developing the best price/performance ratios in CD and 
+		cassette receivers, power amplifiers, loudspeakers, and signal processors. </description>
+	</In_Car_Video_System>
+	<In_Car_Video_System>
+		<id> cl09</id>
+		<title> Clarion MAX675VD - DVD player </title>
+		<warranty>2 </warranty>
+		<price>609</price>
+		<stock>20 </stock>
+		<manufacturer>Clarion</manufacturer>
+		<dimensions>35cm*38cm</dimensions>
+		<availability> Available</availability>
+		<description> The MAX675VD is one of the only true, integrated multimedia... More components available today, period. Sure it has all of the features you'd expect like touch screen control, 
+		DVD playback and voice recognition control of the optional HDD navigation system, but that's just the beginning of the integration. </description>
+	</In_Car_Video_System>
+	<In_Car_Video_System>
+		<id> INCVd09</id>
+		<title> Kenwood KVT 717DVD - DVD player</title>
+		<warranty>2 years</warranty>
+		<price> 1500</price>
+		<stock>25 </stock>
+		<manufacturer> Kenwood </manufacturer>
+		<dimensions>40cm*45cm</dimensions>
+		<availability>Available</availability>
+		<description>Kenwood is a leading developer and manufacturer of audio... More and video products for home, car, and personal use. 
+		It is recognized by consumers and the consumer electronics industry for providing superior quality, reliability and value. </description>
+	</In_Car_Video_System>
+	<In_Car_Video_System>
+		<id> Vd09</id>
+		<title>PYLE View Series PLTVD7IN - DVD player with LCD monitor / AM/FM/TV tuner </title>
+		<warranty>2 </warranty>
+		<price> 990</price>
+		<stock>100 </stock>
+		<manufacturer>Sony </manufacturer>
+		<dimensions>38cm*50cm</dimensions>
+		<availability>Not Available</availability>
+		<description>Providing high-end performance at an affordable price, Pyle... More products offer hard-to-find features customers demand. These components will provide the professional 
+		and occasional enthusiast with an unbeatable combination of performance, flexibility and price.</description>
+	</In_Car_Video_System>
+	<Books_On_Cat_Audio_Installation>
+		<id>Pka09</id>
+		<title> The Pansonic audio system installation manual</title>
+		<category> Installation guide book </category>
+		<price> 12</price>
+		<availability>Available</availability>
+		<description> This book discusses and illustrates the step by step procedures that ought to be followed when installing a panasonic cat audio system</description>
+	</Books_On_Cat_Audio_Installation>
+	<Books_On_Cat_Audio_Installation>
+		<id>Ka19</id>
+		<title> A step by sp guide of installing a Kenwood car audio system</title>
+		<category>Installation guide book</category>
+		<price> 8</price>
+		<availability>Available</availability>
+		<description>This book discusses and illustrates the step by step procedures that ought to be followed when installing a Kenwood cat audio system</description>
+	</Books_On_Cat_Audio_Installation>
+	<Books_On_Cat_Audio_Installation>
+		<id>Ska09</id>
+		<title> The Samsang car auio system insatallation guide </title>
+		<category> Installation guide book </category>
+		<price> 7</price>
+		<availability>Available</availability>
+		<description>This book discusses and illustrates the step by step procedures that ought to be followed when installing a Kenwood cat audio system</description>
+	</Books_On_Cat_Audio_Installation>
+	<Books_On_Cat_Audio_Installation>
+		<id>Snyka09</id>
+		<title>Sony installation gude book</title>
+		<category> Installation guide book</category>
+		<price> 13</price>
+		<availability>Available</availability>
+		<description>This book discusses and illustrates the step by step procedures that ought to be followed when installing a Sony cat audio system</description>
+	</Books_On_Cat_Audio_Installation>
+	<Books_On_Cat_Audio_Installation>
+		<id>Pka678</id>
+		<title>Sanyo book manual</title>
+		<category>  </category>
+		<price> 14</price>
+		<availability>Available</availability>
+		<description>This book discusses and illustrates the step by step procedures that ought to be followed when installing a Sanyo cat audio system</description>
+	</Books_On_Cat_Audio_Installation>
+</Product>
