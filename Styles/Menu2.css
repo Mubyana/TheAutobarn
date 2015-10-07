@@ -1,0 +1,82 @@
+
+body
+{
+	background-color: #3333FF;
+          position:relative;
+}
+
+
+a.Home
+{
+	background-color:#6666FF;
+	border-style: outset;
+	display:block;
+	margin-bottom: 0.2cm;
+	border-color: #6666FF #6666FF #6666FF #6666FF;
+	text-decoration: none;
+	position:relative;right:-40;
+	position:relative;top:-5;
+}
+a.CarSeat
+{
+	background-color:#6666FF;
+	border-style: outset;
+	display:block;
+	margin-bottom: 0.2cm;
+	border-color: #6666FF #6666FF #6666FF #6666FF;
+	text-decoration: none;
+}
+	a.ToolKits
+{
+	background-color:#6666FF;
+	border-style: outset;
+	display:block;
+	margin-bottom: 0.2cm;
+	border-color: #6666FF #6666FF #6666FF #6666FF;
+	text-decoration: none;
+
+}
+a.WheelsRims
+{
+	background-color:#6666FF;
+	border-style:outset;
+	display:block;	
+	margin-bottom: 0.2cm;
+	border-color: #6666FF #6666FF #6666FF #6666FF;
+	text-decoration: none;
+      position:relative;
+
+}
+a.CarPaints
+{
+	background-color:#6666FF;
+	border-style: outset;
+	display:block;
+	margin-bottom: 0.2cm;
+	border-color: #6666FF #6666FF #6666FF #6666FF;
+	text-decoration: none;
+
+}
+a.OilsLubricants
+{
+	background-color:#6666FF;
+	border-style: outset;
+	display:block;
+	margin-bottom: 0.2cm;
+	border-color: #6666FF #6666FF #6666FF #6666FF;
+	text-decoration: none;
+
+}
+a.StereoKits
+{
+	background-color:#6666FF;
+	border-style: outset;
+	display:block;
+	margin-bottom: 0.2cm;
+	border-color: #6666FF #6666FF #6666FF #6666FF;
+	text-decoration: none;
+
+}
+
+
+
