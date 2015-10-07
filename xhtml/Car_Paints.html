@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Auto Barn Car Paints</title>
+</head>
+<body bgcolor="3333FF">
+<h1>Car Paints</h1>
+<hr/>
+<script type="text/javascript">// Load XML
+var xml = new ActiveXObject("Microsoft.XMLDOM")
+xml.async = false
+xml.load("../../Xml/Products.xml")
+
+// Load XSL
+var xsl = new ActiveXObject("Microsoft.XMLDOM")
+xsl.async = false
+xsl.load("../xsl/car_paints.xslt")
+
+// Transform
+document.write(xml.transformNode(xsl))</script>
+<h1></h1>
+<hr/>
+</body>
+</html>
