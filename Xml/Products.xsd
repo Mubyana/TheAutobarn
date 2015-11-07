@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v5 rel. 3 U (http://www.xmlspy.com) by Mubiana Silumesii ($imulation) -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Product_Catalogue">
+		<xs:annotation>
+			<xs:documentation>Catalogue of Products</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Automotive">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Car_Seats" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Tool_Kits" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Wheels_and_Rims" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Car_Paints" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Oil_and_Lubricants" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Car_Stereo_Kits" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Repair_Manuals">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Car_Repair" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Publisher" type="xs:string"/>
+										<xs:element name="Issue" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Truck_Repair" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Publisher" type="xs:string"/>
+										<xs:element name="Issue" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Motorcycle_Repair" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Publisher" type="xs:string"/>
+										<xs:element name="Issue" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Car_Painting" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Publisher" type="xs:string"/>
+										<xs:element name="Issue" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Car_Audio_Installation" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Publisher" type="xs:string"/>
+										<xs:element name="Issue" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Car_Audio">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Amps" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Cd_Stackers" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Speakers" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Sub_Woofers" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="In_Car_Video_Systems" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Warranty" type="xs:int"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Books_on_Car_Audio_Installation" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id" type="xs:string"/>
+										<xs:element name="Serial_no" type="xs:string"/>
+										<xs:element name="Title" type="xs:string"/>
+										<xs:element name="Price" type="xs:decimal"/>
+										<xs:element name="Availability" type="xs:string"/>
+										<xs:element name="Weight" type="xs:string"/>
+										<xs:element name="Dimensions" type="xs:string"/>
+										<xs:element name="Stock" type="xs:int"/>
+										<xs:element name="Publisher" type="xs:string"/>
+										<xs:element name="Issue" type="xs:string"/>
+										<xs:element name="Manufacturer" type="xs:string"/>
+										<xs:element name="Description" type="xs:string"/>
+										<xs:element name="Image" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
